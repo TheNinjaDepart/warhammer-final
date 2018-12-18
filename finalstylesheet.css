@@ -1,0 +1,27 @@
+
+#wrapper {background-image: url(warhammer.jpg);
+		  background-size: cover;
+		  background-position: center;
+		  background-repeat: no-repeat;
+		  float: left;
+		  width: 100%;
+		  }
+
+#header  {width: 60%;
+		 background-color: black;
+		 opacity: 0.90;
+		 
+		 }
+
+#mcol  {width: 60%;
+		 background-color: black;
+		 opacity: 0.90;
+		 
+		 }
+		 
+h1,h2,h3{ text-align: center;
+		  color: white;
+		  }
+
+a {color: red;
+	}
